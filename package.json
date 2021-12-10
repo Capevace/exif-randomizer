@@ -1,0 +1,16 @@
+{
+  "name": "exif-randomizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "randomize.js",
+  "scripts": {
+    "start": "node randomize"
+  },
+  "author": "Lukas Mateffy (@capevace)",
+  "license": "MIT",
+  "dependencies": {
+    "node-exiftool": "^2.3.0",
+    "prompt-confirm": "^2.0.4",
+    "utimes": "^4.1.1"
+  }
+}
