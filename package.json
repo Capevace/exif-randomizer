@@ -12,5 +12,8 @@
     "node-exiftool": "^2.3.0",
     "prompt-confirm": "^2.0.4",
     "utimes": "^4.1.1"
+  },
+  "bin": {
+    "exif-randomizer": "./randomize.js"
   }
 }
